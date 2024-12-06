@@ -1,7 +1,7 @@
 # CYSE130
-├── README.md
-├── /diagrams
-├── /scripts
-├── /documentation
-├── /results
-└── LICENSE
+README.md
+/diagrams
+/scripts
+/documentation
+/results
+LICENSE
